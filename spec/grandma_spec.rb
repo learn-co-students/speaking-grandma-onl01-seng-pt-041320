@@ -20,3 +20,7 @@ describe '#speak_to_grandma' do
   end
 
 end
+
+def speaking_to_grandma(phrase)
+  
+end
